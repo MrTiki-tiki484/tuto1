@@ -5,7 +5,7 @@
 Publier un site internet sur GitHub en utilisant Visual Studio Code.
 
 ## Modalités d'évaluation
-uidhtn
+
 Publication du site dans un Repository sur votre compte GitHub
 Réponses aux questions d'introduction (à intégrer dans un fichier .txt et à ajouter au Repository)
 
